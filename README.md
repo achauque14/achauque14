@@ -26,5 +26,5 @@ I'm passionate about building software solutions and exploring the world of **ar
 ### 📫 How to reach me: 
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/alanchauque/
-- 📧 Email: alanchauque.ac@gmial.com
+- 📧 Email: alanchauque.ac@gmail.com
 
